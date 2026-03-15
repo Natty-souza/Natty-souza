@@ -1,17 +1,17 @@
 # Hi, I'm Natalia Souza 👋
 
 💻 Software Engineering Student  
-📊 Python | SQL | Data Analysis | Automation  
-⚙️ Background in Industrial Automation & Robotics  
+📊 Python | SQL | Data Analysis | Backend Development  
+⚙️ Industrial Automation & Robotics (FANUC)
 
 ---
 
 ## 🚀 About Me
 
 - Software Engineering student passionate about technology and problem solving
-- Learning Python, SQL, Data Analysis and Backend development
+- Learning and building projects with Python, SQL, Data Analysis and Backend Development
 - Experience with industrial automation and robotic systems (FANUC)
-- Interested in building systems and data-driven solutions
+- Interested in data-driven solutions, backend systems and process optimization
 
 ---
 
@@ -26,9 +26,13 @@
 
 ## 📂 Featured Projects
 
-🔹 Inventory System (Python + SQL)  
-🔹 Sales Data Analysis (Python + Pandas + Matplotlib)  
-🔹 Sales Management System (Python + SQL)
+🔹 [Inventory System (Python + SQL)](https://github.com/Natty-souza/inventory-system-python-sql)
+
+🔹 [Sales Data Analysis](https://github.com/Natty-souza/Analise-de-dados---Vendas)
+
+🔹 [Sales Management System (Python + SQL)](https://github.com/Natty-souza/sistema-de-gestao-de-vendas)
+
+🔹 [Sales Dashboard (Power BI)](https://github.com/Natty-souza/sales-data-analysis)
 
 ---
 
@@ -43,8 +47,16 @@
 ## 🌍 Career Goals
 
 - Work with data, backend systems and automation
-- Build systems that solve real world problems
-- Work in international tech environments
+- Build systems that solve real-world problems
+- Grow in international tech environments
+
+---
+
+## 📫 Contact
+
+LinkedIn: https://www.linkedin.com/in/natalia-souza-2b1a691bb  
+Email: nattysouza.r@gmail.com  
+GitHub: https://github.com/Natty-souza
 
 ---
 
